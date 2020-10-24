@@ -47,9 +47,9 @@ npm install
 9. ...
 
 ## Plugins included 
-[amcharts](https://www.amcharts.com)
-[aos](https://michalsnik.github.io/aos)
-[apexchart](https://apexcharts.com)
+*[amcharts](https://www.amcharts.com)
+*[aos](https://michalsnik.github.io/aos)
+*[apexchart](https://apexcharts.com)
 [bootstrap](https://getbootstrap.com)
 [bootstrap4-notify](http://bootstrap-notify.remabledesigns.com)
 [bootstrap-daterangepicker](https://www.daterangepicker.com)
