@@ -71,7 +71,7 @@ npm install
 [highlightjs](https://highlightjs.org)
 
 
-## Meta
+## Creator
 
 Kelvin Conrad – [@YourTwitter](https://twitter.com/Klvnconrad) – YourEmail@example.com
 
